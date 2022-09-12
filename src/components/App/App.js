@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import List from "../Util/List";
 import image from "./images/img.jpg";
 
